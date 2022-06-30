@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingAppMobile", "BankingAppMobile\BankingAppMobile\BankingAppMobile.csproj", "{E00074D6-B58C-43C2-9E3C-C7A6586FAF50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingAppMobile", "BankingAppMobile\BankingAppMobile\BankingAppMobile.csproj", "{E00074D6-B58C-43C2-9E3C-C7A6586FAF50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingAppMobile.Android", "BankingAppMobile\BankingAppMobile.Android\BankingAppMobile.Android.csproj", "{65E8962D-6182-441E-B51B-BDBCF74DAE4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingAppMobile.iOS", "BankingAppMobile\BankingAppMobile.iOS\BankingAppMobile.iOS.csproj", "{4900B07F-01D4-4819-8C40-CE128232A329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingAppWebApi", "BankingAppWebApi\BankingAppWebApi.csproj", "{B5DD67F4-26EC-4850-B47C-E5105CABC066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +111,30 @@ Global
 		{4900B07F-01D4-4819-8C40-CE128232A329}.Release|iPhone.Build.0 = Release|iPhone
 		{4900B07F-01D4-4819-8C40-CE128232A329}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{4900B07F-01D4-4819-8C40-CE128232A329}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Ad-Hoc|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Ad-Hoc|Any CPU.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Ad-Hoc|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.AppStore|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.AppStore|Any CPU.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.AppStore|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.AppStore|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Release|iPhone.Build.0 = Release|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B5DD67F4-26EC-4850-B47C-E5105CABC066}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
